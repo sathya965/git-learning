@@ -1,3 +1,4 @@
 this is amain boot camp session
 this is a demo session
 to save a file in vs code press ctrl+save
+this is day 02 git session
